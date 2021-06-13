@@ -20,6 +20,8 @@ limitations under the License.
 
 # Max Uint32
 
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+
 > Maximum unsigned 32-bit integer.
 
 <section class="installation">
@@ -109,6 +111,18 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 <section class="links">
+
+[npm-image]: http://img.shields.io/npm/v/@stdlib/constants-uint32-max.svg
+[npm-url]: https://npmjs.org/package/@stdlib/constants-uint32-max
+
+[test-image]: https://github.com/stdlib-js/constants-uint32-max/actions/workflows/test.yml/badge.svg
+[test-url]: https://github.com/stdlib-js/constants-uint32-max/actions/workflows/test.yml
+
+[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/constants-uint32-max/main.svg
+[coverage-url]: https://codecov.io/github/stdlib-js/constants-uint32-max?branch=main
+
+[dependencies-image]: https://img.shields.io/david/stdlib-js/constants-uint32-max
+[dependencies-url]: https://david-dm.org/stdlib-js/constants-uint32-max/main
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
