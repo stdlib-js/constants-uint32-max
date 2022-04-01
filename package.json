@@ -1,0 +1,35 @@
+{
+  "name": "@stdlib/constants-uint32-max",
+  "version": "0.0.0",
+  "description": "Maximum unsigned 32-bit integer.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/constants-uint32-max.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "constant",
+    "const",
+    "max",
+    "maximum",
+    "array",
+    "length",
+    "uint32",
+    "integer",
+    "int",
+    "unsigned",
+    "32-bit"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
