@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import UINT32_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint32-max@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/constants-uint32-max/tags). For example,
+
+```javascript
 import UINT32_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint32-max@v0.2.1-esm/index.mjs';
 ```
 
@@ -82,7 +87,7 @@ var bool = ( UINT32_MAX === 4294967295 );
 <body>
 <script type="module">
 
-import UINT32_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint32-max@v0.2.1-esm/index.mjs';
+import UINT32_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint32-max@esm/index.mjs';
 
 console.log( UINT32_MAX );
 // => 4294967295
